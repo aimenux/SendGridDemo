@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/SendGridDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/SendGridDemo/actions/workflows/ci.yml)
+
 # SendGridDemo
 ```
 Exploring ways of sending emails with SendGrid
