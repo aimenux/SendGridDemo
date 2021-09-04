@@ -11,13 +11,13 @@ Exploring ways of sending emails with SendGrid
 >
 > :two: **Example2** : Use SendGridMessage constructor (html text)
 >
-> :three: **Example3** : Use SendGridMessage constructor and AddContent method (plain text)
+> :three: **Example3** : Use AddContent method (plain text)
 >
-> :four: **Example4** : Use SendGridMessage constructor and AddContent method (html text)
+> :four: **Example4** : Use AddContent method (html text)
 >
-> :five: **Example5** : Use CreateSingleEmail helper method (plain text)
+> :five: **Example5** : Use CreateSingleEmail method (plain text)
 >
-> :six: **Example6** : Use CreateSingleEmail helper method (html text)
+> :six: **Example6** : Use CreateSingleEmail method (html text)
 >
 > :seven: **Example7** : Use Substitutions
 >
